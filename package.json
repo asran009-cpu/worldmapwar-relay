@@ -1,0 +1,8 @@
+{
+  "name": "worldmapwar-relay",
+  "version": "1.0.0",
+  "main": "relay.js",
+  "scripts": { "start": "node relay.js" },
+  "engines": { "node": ">=18" },
+  "dependencies": { "ws": "^8.23.0" }
+}
